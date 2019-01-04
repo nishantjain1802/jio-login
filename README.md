@@ -10,5 +10,5 @@ This is a simple python script that will automate your JIO login.
 # Credentials:
 Enter your JIO-ID and password in the python file 
 
-jio_id = "ENTER YOUR JIO-ID HERE"
-pswd = "ENTER YOUR PASSWORD HERE"
+->  jio_id = "ENTER YOUR JIO-ID HERE"
+->  pswd = "ENTER YOUR PASSWORD HERE"
